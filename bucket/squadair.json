@@ -1,12 +1,12 @@
 {
-  "version": "1.9",
+  "version": "1.10",
   "description": "Ultra-lightweight, zero-knowledge P2P voice chat and 1080p60 screen sharing built in pure Rust.",
   "homepage": "https://squadair.app/",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/alivergg/squad-air/releases/download/v1.9/squad-client-windows-x86_64.zip",
-      "hash": "5542450f3cc8c2f6128deaf3fce8364d4b3db11606cbdf5f63439c802181e707"
+      "url": "https://github.com/alivergg/squad-air/releases/download/v1.10/squad-client-windows-x86_64.zip",
+      "hash": "0d748012639cba341ce5f8d0fe2a1240cbd5f127ad1bd7ac20475e22010d91ff"
     }
   },
   "bin": "SquadAir.exe",
